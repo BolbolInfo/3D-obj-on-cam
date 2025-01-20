@@ -1,9 +1,3 @@
-BolbolInfo: create a readme file for this project
-
-Workspace: Collecting workspace information
-
-Still building the workspace index, response may be less accurate.
-
 # 3D Object QR Code Detection and Rendering
 
 This project detects QR codes using a webcam and renders corresponding 3D objects on the video feed. The 3D objects are loaded from `.obj` files and can be manipulated (rotated, scaled, translated) based on user input.
